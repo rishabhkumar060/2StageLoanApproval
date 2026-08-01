@@ -4,7 +4,7 @@ An end-to-end ML app simulating loan evaluation using a two-stage model: approve
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_9ntfvj9ntfvj9ntf_1.jpg"
+  <img src="https://career-platform-may-2026.s3.ap-south-1.amazonaws.com/krishnaik.in/media/project_banners/Gemini_Generated_Image_9ntfvj9ntfvj9ntf_1.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ An end-to-end ML app simulating loan evaluation using a two-stage model: approve
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/1_kN7R9Er.png"
+  <img src="https://career-platform-may-2026.s3.ap-south-1.amazonaws.com/krishnaik.in/media/project_architecture_diagrams/1_kN7R9Er.png"
        alt="System Architecture"
        width="600" />
 </p>
